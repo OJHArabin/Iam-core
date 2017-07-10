@@ -17,6 +17,4 @@ Run the application:
 Go to iam-rabincore/src/fr/epita/iam/launcher execute ConsoleLauncher.java
 Developers:
 
-Go to iam_rabincore/javadoc for documentation
-Go to iam-rabincore/test to run advanced test. The console application does not allows the user to add other attributes and addresses on identity but by running these tests you can see how to use the advanced options.
-The project is an open source and will be enhanced .Feel free to contribute!
+Go to iam_rabincore/doc for documentation
