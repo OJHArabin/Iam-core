@@ -17,7 +17,7 @@ import fr.epita.iam.services.Authenticator;
 
 import fr.epita.iam.services.IdentityDAO;
 import fr.epita.iam.services.JDBCIdentityDAO;
-import fr.epita.logging.Logger;
+
 import fr.epita.ojha.business.Acitivity;
 
 /**
@@ -101,7 +101,7 @@ public class Launcher {
 					
 				default:
 
-					System.out.println("unrecognized option : type 1,2,3 or 4 to quit");
+					System.out.println("unrecognized option : type 1,2,3 or 5 to quit");
 					break;
 				}
 
